@@ -1,0 +1,2 @@
+# SalesBarChartGenerator
+Sales bar charts.
